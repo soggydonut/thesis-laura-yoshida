@@ -1,7 +1,7 @@
 NP in PP ---
 
-Bob [ printed ] a photo { of } my grandpa in the paper .
-Bob printed [ a photo ] { of } my grandpa in the garden .
+Bob printed { a photo of my grandpa in the paper } .
+Bob printed [ a photo of my grandpa in the garden ] .
 
 I washed the teacups { with } my lovely wife .
 I washed [ the teacups] { with } the lovely flower designs .
