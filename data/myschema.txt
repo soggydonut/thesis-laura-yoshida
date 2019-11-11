@@ -1,0 +1,58 @@
+NP in PP ---
+
+Bob [ printed ] a photo { of } my grandpa in the paper .
+Bob printed [ a photo ] { of } my grandpa in the garden .
+
+I washed the teacups { with } my lovely wife .
+I washed [ the teacups] { with } the lovely flower designs .
+
+The scientists [ discussed ] their research { with } the President .
+The scientists discussed [ their research ] { with } mollusks .
+
+He paid for [ the dinner ] { with } my parents .
+He [ paid ] for the dinner { with } great reluctance .
+
+I saw [ my reflection ] { in } the mirror .
+I [ saw ] my reflection { in } the middle of a dramatic breakdown .
+
+We have obtained images of [ the planet ] { with } two moons .
+We have [ obtained images of the planet ] { with } new advances in technology .
+
+He stole [ the bread ] { for } the restaurant .
+He [ stole ] the bread { for } his nephew .
+
+He arrived in [ the town square ] { in } the heart of the city .
+He [ arrived ] in the town square { in } a timely fashion .
+
+He [ distributed ] the money  { in } equal shares .
+He distributed [ the money ] { in } the safe . 
+
+My brother eats [ steak ] { with } barbecue sauce .
+My brother [ eats ] steak { with } the voraciousness of a starving animal .
+
+I dreamt of [ the party ] { } the other night .
+I [ dreamt ] of a giant lizard { } the other night .
+
+She performed [ the song ] { with } the dubstep breakdown .
+She [ performed ] the song { with } Skrillex .
+
+I [ took ] the gun { from } above the fireplace .
+I took [ the gun ] { from } WWII .
+
+V ---
+
+DOUBLE PP ---
+
+There are [ people ] with special illnesses { in } this hospital .
+There are people with [ special illnesses ] { in } their hearts .
+
+---
+
+Alice searched thoroughly for the cell phone.
+Alice looked thoroughly defeated.
+
+The old man the boat.
+The old man shares his boat with his friends.
+
+Johnson is up to bat.
+Johnson is up to something with the bats.
