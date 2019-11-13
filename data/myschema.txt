@@ -24,8 +24,10 @@ She performed [ the song with the dubstep breakdown ] .
 She performed {the song with Skrillex } .
 I took { the gun from above the fireplace } .
 I took [ the gun from WWII ] .
-The biologist isolates { genes in this laboratory } .
-The biologist isolates [ genes in human DNA ] .
+There are people with { rare illnesses in this hospital } .
+There are people with [ rare illnesses in their hearts ] .
+The biologist isolates { the genes in this laboratory } .
+The biologist isolates [ the genes in human DNA ] .
 The boy left { the island with a boat } .
 The boy left [ the island with the big mountain ] .
 He met [ his best friend in the world ] .
@@ -38,10 +40,12 @@ She trained { the students in martial arts } .
 She trained [ the students in the class ] .
 The team infiltrated { the fortress with caution } .
 The team infiltrated [ the fortress with the cruel dictator ] .
+I heard [ many complaints over the game's poor graphics ] .
+I heard { many complaints over the weekend } .
+Worms wiggle on [ the sidewalk on the way to school ] .
+Worms wiggle on { the sidewalk on rainy days } .
 The professor is in [ his office on the third floor ] .
 The professor is in { his office on Tuesday afternoons } .
-There are people with { rare illnesses in this hospital } .
-There are people with [ rare illnesses in their hearts ] .
 He carries an umbrella to { school in the rain } .
 He carries an umbrella to [ school in the city ] .
 The student checked out a book on { history from the library }.
@@ -50,3 +54,23 @@ I go jogging in { the park in the morning } .
 I go jogging in [ the park in the south of town ].
 I patted  { the dog on the top of his head } .
 I patted [ the dog on top of that hill ] .
+The couple wanted to travel to [ that waterfall in Argentina ] .
+The couple wanted to travel to { that waterfall in a car } .
+Yiu-fai took { the photo from the noodle shop } .
+Yiu-fai took [ the photo from the yearbook ] .
+Chang went to { the lighthouse at last } .
+Chang went to [ the lighthouse at the southernmost point of South America ] .
+I'd like to watch [ a documentary on Amazon River dolphins ] .
+I'd like to watch { a documentary on Tuesday } .
+She fought with [ the students on the student council ] .
+She fought with { the students on the issue of uniforms } .
+She demanded { a hamburger without any manners } .
+She demanded [ a hamburger without any sauce ] .
+You can order { fruit or toast } and butter with your breakfast.
+You can order [ scrambled or fried eggs ] and coffee with your breakfast .
+The mailman delivered [ a costume to wear for Halloween ] .
+The mailman delivered { a costume to the man's house } .
+I take [ medicine with mild side-effects ] .
+I take { medicine with some kind of beverage } .
+I ordered { pizza with my friends } .
+I ordered [ pizza with sausage and onions ] .
