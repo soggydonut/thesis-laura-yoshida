@@ -98,3 +98,5 @@ She picked berries from [ the bushes between the fences ] .
 She picked berries from { the bushes between her classes } .
 The children are not allowed to play in { the rocks under any circumstances } .
 The children are not allowed to play in [ the rocks under that cliff ] .
+I drew the flight attendant on the plane .
+
