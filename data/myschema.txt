@@ -21,7 +21,7 @@ My brother eats { steak with the voraciousness of a starving animal } .
 I dreamt of [ that party the other night ] .
 I dreamt of { a giant lizard the other night } .
 She performed [ the song with the dubstep breakdown ] .
-She performed {the song with Skrillex } .
+She performed { the song with Skrillex } .
 I took { the gun from above the fireplace } .
 I took [ the gun from WWII ] .
 There are people with { rare illnesses in this hospital } .
@@ -50,10 +50,10 @@ The professor is in [ his office on the third floor ] .
 The professor is in { his office on Tuesday afternoons } .
 He carries an umbrella to { school in the rain } .
 He carries an umbrella to [ school in the city ] .
-The student checked out a book on { history from the library }.
+The student checked out a book on { history from the library } .
 The student checked out a book on [ history from the Middle Ages to the Renaissance ] .
 I go jogging in { the park in the morning } .
-I go jogging in [ the park in the south of town ].
+I go jogging in [ the park in the south of town ] .
 I patted  { the dog on the top of his head } .
 I patted [ the dog on top of that hill ] .
 The couple wanted to travel to [ that waterfall in Argentina ] .
@@ -98,5 +98,4 @@ She picked berries from [ the bushes between the fences ] .
 She picked berries from { the bushes between her classes } .
 The children are not allowed to play in { the rocks under any circumstances } .
 The children are not allowed to play in [ the rocks under that cliff ] .
-I drew the flight attendant on the plane .
 
