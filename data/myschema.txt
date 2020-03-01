@@ -99,14 +99,33 @@ She picked berries from { the bushes between her classes } .
 The children are not allowed to play in { the rocks under any circumstances } .
 The children are not allowed to play in [ the rocks under that cliff ] .
 Eve ate the fruit from [ the tree in the garden ] .
-Eve ate the fruit from { the tree in a moment of rebellion } .
+Eve ate the fruit from { the tree in an act of rebellion } .
 I drove home for [ Thanksgiving with my parents ] .
 I drove home with { my parents for Thanksgiving } .
 He got kicked out of { school for reading forbidden books } .
-He got kicked out of [ school for wizards ] .
+He got kicked out of [ the school for wizards ] .
 I got [ whiskey on the rocks ] .
 I got { whiskey on my new laptop } .
 I ended up unconscious in [ the ditch by the side of the road ] .
 I ended up unconscious in { the ditch by picking a fight with the wrong person } .
 I took haphazard { notes on a sticky note } .
 I took haphazard [ notes on lambda calculus ] .
+I traveled to [ the little village on the mountaintop ] .
+I traveled to { the little village on my bike } .
+I purchased a { new computer for my brother } .
+I purchased a [ new computer for playing video games ] .
+I traveled to [ the city on the mountain ] .
+I traveled to { the city on my bike } .
+I took a trip to [ Osaka which is known for its takoyaki ].
+I took a trip to { Osaka which lasted two days } .
+Two of the main ingredients in the ramen are [ the chicken and pork broth ] and the noodles .
+Two of the main ingredients in the ramen are the chicken and { pork broth and the noodles } .
+My cat left a dead mouse under a shelf, which was in the garage .
+My cat left a dead mouse under a shelf, which was not appreciated by my mom .
+The Apollo space program put the first men on the [ moon , which orbits around the Earth ] .
+The Apollo space program put the first men on the { moon , which was a big deal for mankind } .
+I went to the Chinese garden in downtown [ Portland , which is a city in Oregon ] .
+I went to the Chinese garden in downtown { Portland , which is called Lan Su Garden } .
+Some species of ants engage in [ rudimentary foreign politics , for example comparing colony size ] .
+Some species of ants engage in { rudimentary foreign politics , for example the honeypot ant } .
+
